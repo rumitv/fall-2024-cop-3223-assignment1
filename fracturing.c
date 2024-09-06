@@ -1,3 +1,16 @@
+//******************************************
+
+
+// Name: Maryam Fathey
+// UCFID: 5658259
+
+
+
+//******************************************
+
+
+
+
 #include <stdio.h>
 #include <math.h>
 // this program uses these libraries 
